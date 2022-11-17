@@ -2,7 +2,7 @@
 //  APIKit.h
 //  APIKit
 //
-//  Created by TCH Developer on 17/11/2022.
+//  Created by JB Developer on 17/11/2022.
 //
 
 #import <Foundation/Foundation.h>
